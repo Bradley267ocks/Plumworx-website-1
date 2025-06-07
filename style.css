@@ -382,7 +382,7 @@ nav a:hover::after {
 .testimonial-slider {
     overflow: hidden;
     position: relative;
-    height: 400px;
+    height: 460px;
 }
 
 .testimonial-slide {
